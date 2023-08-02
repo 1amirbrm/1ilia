@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱A little programmer with big ideas!<br>⚡I'm currently programming with Python.<br>🔸Machine learning and AI are my favorites.<br>... 
+🌱A little programmer with big ideas!<br>⚡I'm currently programming with Python.<br>🔸Machine learning and AI are my favorites.
 
 
 ## 🌐 Socials:
