@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱A young programmer with big ideas!<br>⚡I'm currently programming with Python.<br>🔸Machine learning and AI are my favorites.
+🌱A young programmer with big ideas!<br>⚡I'm currently programming with Python.
 
 
 ## 🌐 Socials:
